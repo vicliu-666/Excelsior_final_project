@@ -1,1 +1,3 @@
 # Excelsior_final_project
+
+程式碼可以直接放進原本的mmWave\KKT_Module_Example_20240820\radar-gesture-recognition-chore-update-20250815\src資料夾使用
